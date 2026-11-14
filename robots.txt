@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elsegpt-studio.github.io/sitemap.xml
